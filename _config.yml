@@ -85,31 +85,31 @@ author:
   bio              : "Learner"
   location         : "Dhaka"
   employer         : "Eastern University"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "sultanarazia1280@gmail.com"
-  researchgate     : ""
+  researchgate     : #""
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :"https://www.facebook.com/profile.php?id=100004219099297"
+  facebook         :
   foursquare       :
-  github           : "shttps://github.com/razia16"
+  github           : "razia16"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "razia-sultana-b924a0156/"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
